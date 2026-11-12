@@ -1,0 +1,16 @@
+# IBM watsonx.ai Configuration
+WATSONX_API_KEY=V_J3y3rEYyc9Y6xtXjSYM7BNdwK5wcs1zDCf4-WIcDCZ
+WATSONX_PROJECT_ID=a047e88d-56e7-4b85-9fb8-6c16e6d6e6e8
+WATSONX_URL=https://us-south.ml.cloud.ibm.com
+
+# IBM Granite Model Settings
+GRANITE_MODEL_ID=ibm/granite-4-h-small
+GRANITE_MAX_NEW_TOKENS=1024
+GRANITE_TEMPERATURE=0.7
+GRANITE_TOP_P=0.9
+GRANITE_TOP_K=50
+GRANITE_REPETITION_PENALTY=1.1
+
+# App Settings
+APP_TITLE=LearnAI - Agentic AI Personalized Learning Platform
+APP_DEBUG=False
